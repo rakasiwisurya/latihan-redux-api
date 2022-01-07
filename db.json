@@ -1,0 +1,14 @@
+{
+  "kontaks": [
+    {
+      "id": 1,
+      "nama": "Budi Sudarsono",
+      "nohp": "085717573808"
+    },
+    {
+      "id": 2,
+      "nama": "Eko Sujiwo",
+      "nohp": "085717573809"
+    }
+  ]
+}
